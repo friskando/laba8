@@ -59,9 +59,11 @@
 
 
 
-
-
-
-
 Тестирование
+1 Чтение БД и просмотр 
 <img width="1040" height="473" alt="Image" src="https://github.com/user-attachments/assets/9ce1fbf7-674d-4544-a656-0e05b9023232" />
+2 удаление 
+<img width="1101" height="627" alt="Image" src="https://github.com/user-attachments/assets/c67d8d7b-2171-4400-98dd-6d0be1974e6d" />
+3 опять просмотри добавление 
+<img width="1045" height="630" alt="Image" src="https://github.com/user-attachments/assets/c68352cd-75a6-423f-bfa2-36d49459bdb9" />
+<img width="1121" height="610" alt="Image" src="https://github.com/user-attachments/assets/fdcf7bb8-d0d1-4501-ab35-20d005bf03cb" />
