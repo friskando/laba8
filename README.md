@@ -64,4 +64,4 @@
 
 
 Тестирование
-
+<img width="1040" height="473" alt="Image" src="https://github.com/user-attachments/assets/9ce1fbf7-674d-4544-a656-0e05b9023232" />
